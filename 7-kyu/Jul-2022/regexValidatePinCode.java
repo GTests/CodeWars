@@ -10,7 +10,7 @@ Examples (Input --> Output)
 "a234"   -->  false
 */
 
-public class regexValidatePinCode {
+public class RegexValidatePinCode {
     public static boolean validatePin(String pin) {
         String numbers = "0123456789";
         int length = pin.length();

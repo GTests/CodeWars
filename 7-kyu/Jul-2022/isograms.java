@@ -10,7 +10,7 @@ Example: (Input --> Output)
     "moOse" --> false (ignore letter case)
 */
 
-class isograms {
+class Isograms {
     public static boolean isIsogram(String str) {
         boolean isIsogram = true;
         String[] charArr = str.split("");

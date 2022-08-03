@@ -8,7 +8,7 @@ Examples:
     -34: 34
 */
 
-public class oppositeNumber {
+public class OppositeNumber {
     public static int opposite(int number) {
         return number * -1;
     }
