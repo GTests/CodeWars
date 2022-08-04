@@ -1,4 +1,4 @@
-public class reverseStrings {
+public class ReverseStrings {
 
     public static String printName(String name) {
         return name;
