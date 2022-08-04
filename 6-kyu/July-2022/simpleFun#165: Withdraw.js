@@ -1,6 +1,7 @@
 /**
-DESCRIPTION:
+ Simple Fun #165: Withdraw
 
+DESCRIPTION:
 An ATM ran out of 10 dollar bills and only has 100, 50 and 20 dollar bills.
 
 Given an amount between 40 and 10000 dollars (inclusive) and assuming that the ATM wants to use as few bills as possible, 
