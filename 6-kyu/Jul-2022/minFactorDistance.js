@@ -1,6 +1,10 @@
 /**
+Min Factor Distance
+https://www.codewars.com/kata/59b8614a5227dd64dc000008
+
 DESCRIPTION:
-Write a function that returns the smallest distance between two factors of a number. The input will always be a number greater than one.
+Write a function that returns the smallest distance between two factors of a number. 
+The input will always be a number greater than one.
 
 Example:
 13013 has factors: [ 1, 7, 11, 13, 77, 91, 143, 169, 1001, 1183, 1859, 13013]
