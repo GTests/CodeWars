@@ -6,7 +6,7 @@ This is my playground for programming and puzzles. This repo includes basics and
 
 - https://www.codewars.com/users/Console_Cowboy17
 - 5 kyu
-- Top 43.317%
+- Top 32.511%
 
 #
 
