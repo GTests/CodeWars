@@ -4,7 +4,7 @@ This is my playground for programming and puzzles. This repo includes basics and
 
 ### My Stats:
 
-- https://www.codewars.com/users/Console_Cowboy17
+- https://www.codewars.com/users/GTests
 - 5 kyu
 - Top 29.889%
 
