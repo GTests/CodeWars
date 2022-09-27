@@ -6,7 +6,7 @@ This is my playground for programming and puzzles. This repo includes basics and
 
 - https://www.codewars.com/users/GTests
 - 5 kyu
-- Top 24.540%
+- Top 23.276%
 
 #
 
