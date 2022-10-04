@@ -1,3 +1,5 @@
+<img src="https://www.codewars.com/users/GTests/badges/large" alt="stats" width="300" height="30">
+
 # CodeWars
 
 This is my playground for programming and puzzles. This repo includes basics and light difficulty examples.
