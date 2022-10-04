@@ -1,4 +1,4 @@
-<img src="https://www.codewars.com/users/GTests/badges/large" alt="stats" width="300" height="30">
+<a href="#"><img src="https://www.codewars.com/users/GTests/badges/large" alt="stats" width="300" height="30"></a>
 
 # CodeWars
 
