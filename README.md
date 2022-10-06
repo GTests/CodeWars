@@ -1,4 +1,4 @@
-<a href="#"><img src="https://www.codewars.com/users/GTests/badges/large" alt="stats" width="300" height="30"></a>
+<a href="#"><img src="https://www.codewars.com/users/GTests/badges/large" alt="GTests rank" width="300" height="30"></a>
 
 # CodeWars
 
@@ -6,9 +6,9 @@ This is my playground for programming and puzzles. This repo includes basics and
 
 ### My Stats:
 
-- https://www.codewars.com/users/GTests
+- <a href="https://www.codewars.com/users/GTests" disabled = true>My Profile Page</a>
 - 5 kyu
-- Top 15.4%
+- Top 14%
 
 #
 
