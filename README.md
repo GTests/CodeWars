@@ -6,7 +6,7 @@ This is my playground for programming and puzzles. This repo includes basics and
 
 ### My Stats:
 
-- <a href="https://www.codewars.com/users/GTests" target=”_blank”>My Profile Page</a>
+- <a onclick="window.open(this.href,'_blank');return false;" href="https://www.codewars.com/users/GTests">My Profile Page</a>
 - 5 kyu
 - Top 14%
 
