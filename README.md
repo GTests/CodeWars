@@ -8,7 +8,7 @@ This is my playground for programming and puzzles. This repo includes basics and
 
 - <a onclick="window.open(this.href,'_blank');return false;" href="https://www.codewars.com/users/GTests">My Profile Page</a>
 - 5 kyu
-- Top 14%
+- Top 15%
 
 #
 
