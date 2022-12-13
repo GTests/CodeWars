@@ -6,7 +6,7 @@ This is my playground for programming and puzzles. This repo includes basics and
 
 ### My Stats:
 
-- <a onclick="window.open(this.href,'_blank');return false;" href="https://www.codewars.com/users/GTests">My Profile Page</a>
+- <a onclick="window.open(this.href,'_blank');return false;" href="https://www.codewars.com/users/GTests">My codewars profile</a>
 - 5 kyu
 - Top 15%
 
@@ -14,7 +14,7 @@ This is my playground for programming and puzzles. This repo includes basics and
 
 ### Languages I use:
 
-- Javascript
+- JavaScript
 - Java
 - SQL
 
