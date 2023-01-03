@@ -14,7 +14,7 @@
 
 import java.util.*;
 
-public class onlyNeedOne {
+public class Solution {
 
   // smart example
   static boolean check(Object[] a, Object x) {
