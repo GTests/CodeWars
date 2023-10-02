@@ -12,3 +12,8 @@ Note: if there is nothing to sum, the sum is default to 0.
 function positiveSum(arr) {
   return arr.filter((num) => num > 0).reduce((accum, iter) => accum + iter, 0);
 }
+
+let arr = [1,-4,7,12];
+let result = positiveSum(arr);
+
+console.log(result);
