@@ -1,4 +1,4 @@
-<a href="#"><img src="https://www.codewars.com/users/giorgiTsereteli/badges/large" alt="giorgiTsereteli rank" width="300" height="30"></a>
+<a href="#"><img src="https://www.codewars.com/users/giorgiTsereteli/badges/large" alt="giorgiTsereteli rank" width="400" height="60"></a>
 
 # CodeWars
 
