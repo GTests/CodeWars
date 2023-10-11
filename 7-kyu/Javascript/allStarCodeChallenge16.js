@@ -9,6 +9,8 @@ https://www.codewars.com/kata/586566b773bd9cbe2b000013
 // noRepeat("testing") // => "e"
 // Note: ONLY letters from the english alphabet will be used as input There will ALWAYS be at least one non-repeating letter in the input string
 
+// Tags: indexOf(), lastIndexOf();
+
 /**
  * Find first occurence of letter that does not repeat
  * @param {string} str is a given string with duplicate letters
