@@ -10,9 +10,9 @@ Easiest level is 8kyu and hardest is 1kyu. The harder the kata, the more points 
 
 ## <a href="https://www.codewars.com/users/giorgiTsereteli">My Stats</a>
 - Rank: 5 kyu
-- Honor: 593
-- Honor Percentile: Top 13.243%
-- Total Completed Kata: <b>125</b>
+- Honor: 613
+- Honor Percentile: Top 12.503%
+- Total Completed Kata: <b>136</b>
 
 
 </br>
@@ -22,7 +22,7 @@ Easiest level is 8kyu and hardest is 1kyu. The harder the kata, the more points 
 
 |   | [8 kyu](/8-kyu/) | [7 kyu](/7-kyu/) | [6 kyu](/6-kyu/) |
 |:-----------------------------:|:-----------------------------:|:-----------------------------:| :-----------------------------:|
-|            Javascript               |               22               |               20               |               15              |
+|            Javascript               |               23                |               24                |               15              |
 |            Java               |               27               |               14               |               11               |
 |            SQL               |               6               |               3               |               3               |
 
