@@ -12,7 +12,7 @@ Easiest level is 8kyu and hardest is 1kyu. The harder the kata, the more points 
 - Rank: 5 kyu
 - Honor: 613
 - Honor Percentile: Top 12.503%
-- Total Completed Kata: <b>136</b>
+- Total Completed Kata: <b>137</b>
 
 
 </br>
@@ -22,7 +22,7 @@ Easiest level is 8kyu and hardest is 1kyu. The harder the kata, the more points 
 
 |   | [8 kyu](/8-kyu/) | [7 kyu](/7-kyu/) | [6 kyu](/6-kyu/) |
 |:-----------------------------:|:-----------------------------:|:-----------------------------:| :-----------------------------:|
-|            Javascript               |               23                |               24                |               15              |
+|            Javascript               |               24                |               24                |               15              |
 |            Java               |               27               |               14               |               11               |
 |            SQL               |               6               |               3               |               3               |
 
