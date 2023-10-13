@@ -1,0 +1,11 @@
+# Top-most EditorConfig file
+root = true
+
+# Set default options for all files
+[*]
+end_of_line = lf ; Use LF (Line Feed) for line endings
+insert_final_newline = true ; Ensure a new line at the end of files
+
+# JavaScript files
+[*.js]
+insert_final_newline = true ; Ensure a new line at the end of JavaScript files

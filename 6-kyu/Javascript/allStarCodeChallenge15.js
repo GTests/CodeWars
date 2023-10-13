@@ -29,6 +29,7 @@ function rotate(str) {
   const strLength = str.length;
   let result = [];
   for (let i = 0; i < strLength; i++) {
+    // Take all chars from index 1 till the end and add char at [0] to the end
     str = str.substring(1, strLength) + str[0];
     result.push(str);
   }
