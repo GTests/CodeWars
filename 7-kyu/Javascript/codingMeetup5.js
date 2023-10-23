@@ -28,7 +28,7 @@
 
 /**
  * Counts occurence of each language in an array of objects
- * @param {Array} list is array of objects
+ * @param {array} list is array of objects
  * 
  * @returns object with count of each laguange
  */

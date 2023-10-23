@@ -36,7 +36,7 @@ The input array will always be valid and formatted as in the example above and w
 /**
  * Finds most senior developers in the array of objects
  * 
- * @param {Array} list is array of developer objects
+ * @param {array} list is array of developer objects
  * 
  * @returns array of developers with max age
  */

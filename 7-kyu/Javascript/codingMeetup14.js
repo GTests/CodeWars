@@ -36,7 +36,7 @@
 /**
  * Counts each type of meal in the input array
  * 
- * @param {list} list is input array of objects
+ * @param {array} list is input array of objects
  * 
  * @returns back object with key values pairs of meal and count
  */

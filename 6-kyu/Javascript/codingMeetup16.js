@@ -37,7 +37,7 @@
  * Adds addiotnal key/value pair to each object if null value was found
  * Uses key name of the null value when adding a new pair of key/values
  * 
- * @param {Array} list is an array of objects
+ * @param {array} list is an array of objects
  * 
  * @returns an array of objects with certain requirement to solve the challenge
  */
