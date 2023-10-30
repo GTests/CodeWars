@@ -1,4 +1,4 @@
-<a href="#"><img src="https://www.codewars.com/users/giorgiTsereteli/badges/large" alt="giorgiTsereteli rank" width="400" height="60"></a>
+<a href="https://www.codewars.com/users/giorgiTsereteli"><img src="https://www.codewars.com/users/giorgiTsereteli/badges/large" alt="giorgiTsereteli rank" width="400" height="60"></a>
 
 # Codewars
 Welcome to my collection of codewars katas! Here, you will find all solutions grouped by rank and programming language. Each puzzle was solved on official platform and verified against original test suites.
@@ -10,9 +10,9 @@ Easiest level is 8kyu and hardest is 1kyu. The harder the kata, the more points 
 
 ## <a href="https://www.codewars.com/users/giorgiTsereteli">My Stats</a>
 - Rank: 5 kyu
-- Honor: 619
-- Honor Percentile: Top 12.282%
-- Total Completed Kata: <b>139</b>
+- Honor: 623
+- Honor Percentile: Top 12.141%
+- Total Completed Kata: <b>141</b>
 
 
 </br>
@@ -20,8 +20,9 @@ Easiest level is 8kyu and hardest is 1kyu. The harder the kata, the more points 
 <ins>For quick access</ins>, click the rank to navigate to a folder containing all solutions for that level
 
 
-| Language    | 8 kyu | 7 kyu | 6 kyu |
+
+| Language    | [8 kyu](/8-kyu/) | [7 kyu](/7-kyu/) | [6 kyu](/6-kyu/) |
 |-------------|------|------|------|
-| Javascript  | 24   | 28   | 16   |
+| Javascript  | 24   | 30   | 16   |
 | Java        | 27   | 14   | 11   |
 | SQL         | 6    | 5    | 3    |
