@@ -21,10 +21,10 @@
  * 
  * @param {array} arr is input array of numbers
  * 
- * @returns array on min and max numbers
+ * @returns array of min/max numbers
  */
 function minMax(arr) {
-    arr.sort((a, b) => { return a - b; });
+    arr.sort((a, b) => a - b);
     let min = arr[0];
     let max = arr[arr.length - 1];
     return [min, max];
