@@ -39,14 +39,15 @@
 // Note:
 // Assume all keys in the Instruction objects are properly filled and do not need to be checked for format or value type.
 
-//Tags: hasOwnProperty(), push();
+//Functions: hasOwnProperty(), push();
 
-/* 
-  Creates array of string with set of instructions from input array
-  @param {array} - array is collection of objects with instruction for Jesse
-  
-  @return {array} is array of strings created as per requirement of the kata
-*/
+/**
+ * Creates array of string with set of instructions from input array
+ * 
+ * @param {array} - array is collection of objects with instruction for Jesse
+ * 
+ * @return {array} is array of strings matching requirement of  kata
+ */
 function helpJesse(array) {
     let recipe = [];
     for (let value of array) {
