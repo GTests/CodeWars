@@ -1,4 +1,4 @@
-// 8kyu
+//
 // Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right
 // https://www.codewars.com/kata/57faf7275c991027af000679
 
@@ -27,17 +27,14 @@
  * @returns {string} Returns a new string with up to 'n' exclamation marks removed.
  */
 function remove(s, n) {
-  let word = '';
-  let counter = 1;
-  for (let i of s) {
-    if (counter <= n && i !== '!') {
-      word += i;
-    } else if (counter > n) {
-      word += i;
-    }
-    if (i === '!') {
+  let result = '';
+  let counter = 0;
+  for (let char of s) {
+    if (char === '!' && counter < n) {
       counter++;
+      continue;
     }
+    result += char;
   }
-  return word;
+  return result;
 }
